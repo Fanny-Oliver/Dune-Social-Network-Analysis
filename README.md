@@ -28,10 +28,10 @@ The objective of this project is to:
 
 🛠️ Tools & Technologies
 - Python
-SpaCy
-Pandas
-NetworkX
-Data Visualization tools
+- SpaCy
+- Pandas
+- NetworkX
+- Gephi
 
 💡 Why This Project Matters
 
